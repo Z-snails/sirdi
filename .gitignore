@@ -1,3 +1,5 @@
 build/
 *~
 .sirdi/
+depends
+./sirdi
